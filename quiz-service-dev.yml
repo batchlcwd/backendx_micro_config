@@ -1,2 +1,2 @@
 config:
-  value: "This is dev ENV v1,we are in first phase"
+  value: "{cipher}a35dfec9cf66e0a8e6dca598e0c0ef3798cb4969714cdf81ed302ee311c3f8f64c7dddee3efe4872e639cea727b399d006adda5503a90aa1d0f5c343941e24f1a420227d584932306bcc9778cde4b6ab"
